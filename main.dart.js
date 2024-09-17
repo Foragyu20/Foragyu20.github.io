@@ -59885,7 +59885,7 @@ A.AP.prototype={
 N(a){return B.Ju}}
 A.Ad.prototype={
 N(a){var s=null,r=A.xR(50),q=t.D
-return A.k4(A.a([A.to(A.a([A.WJ(A.jo(A.k4(A.a([A.fz(s,A.hE(u.J,s,s,s),s,s,new A.cV(s,s,s,r,s,s,B.at),100,s,s,100),B.bT,B.Pm],q),B.b5,B.aY,B.aj),400,200)),B.KT,A.jo(A.WJ(A.k4(A.a([B.Pk,B.bU,A.lt(A.hE(u.g,s,50,50),s,"Android Studio",s,s),B.bU,A.lt(A.hE(u.L,s,50,50),s,"Flutter",s,s),B.bU,A.lt(A.hE(u.E,s,50,50),s,"Python",s,s),B.bU,A.lt(A.hE(u.D,s,50,50),s,"Raspberry Pi",s,s),B.bU,A.lt(A.hE(u.C,s,50,50),s,"Computer Literacy",s,s)],q),B.b5,B.aY,B.aj)),400,60)],q),B.aY,B.aj),B.bU,A.aa3(B.KR)],q),B.b5,B.aY,B.aj)}}
+return A.k4(A.a([A.to(A.a([A.WJ(A.jo(A.k4(A.a([A.fz(s,A.hE(u.J,s,s,s),s,s,new A.cV(s,s,s,r,s,s,B.at),100,s,s,100),B.bT,B.Pm],q),B.b5,B.aY,B.aj),400,240)),B.KT,A.jo(A.WJ(A.k4(A.a([B.Pk,B.bU,A.lt(A.hE(u.g,s,50,50),s,"Android Studio",s,s),B.bU,A.lt(A.hE(u.L,s,50,50),s,"Flutter",s,s),B.bU,A.lt(A.hE(u.E,s,50,50),s,"Python",s,s),B.bU,A.lt(A.hE(u.D,s,50,50),s,"Raspberry Pi",s,s),B.bU,A.lt(A.hE(u.C,s,50,50),s,"Computer Literacy",s,s)],q),B.b5,B.aY,B.aj)),400,80)],q),B.aY,B.aj),B.bU,A.aa3(B.KR)],q),B.b5,B.aY,B.aj)}}
 A.q8.prototype={
 af(){return new A.q9(null,null,B.j)}}
 A.q9.prototype={
